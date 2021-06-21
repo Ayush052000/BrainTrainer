@@ -1,1 +1,1 @@
-# BrainTrainer
+# BrainTrainer App
